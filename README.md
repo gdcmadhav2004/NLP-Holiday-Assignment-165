@@ -61,7 +61,7 @@ To explore the notebooks and run the code:
 
 - Python 3.x
 - Jupyter Notebook
-- [List any specific libraries used, e.g., NumPy, pandas, scikit-learn, NLTK, etc.]
+-  libraries used, e.g., NumPy, pandas, scikit-learn, NLTK
 
 *Note*: Ensure all necessary libraries are installed to run the notebooks without issues.
 
