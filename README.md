@@ -1,6 +1,3 @@
-# NLP-Holiday-Assignment-165
-Based on the contents of your repository, "NLP-Holiday-Assignment-165," here's a comprehensive README file to enhance its clarity and usability:
-
 # NLP Holiday Assignment 165
 
 This repository contains assignments and projects completed during the NLP Holiday Assignment 165.
